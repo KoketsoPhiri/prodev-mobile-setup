@@ -1,8 +1,7 @@
 {
-  "name": "expo-template-default",
-  "license": "0BSD",
+  "name": "my-app",
   "main": "expo-router/entry",
-  "version": "53.0.40",
+  "version": "1.0.0",
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
@@ -45,5 +44,6 @@
     "typescript": "~5.8.3",
     "eslint": "^9.25.0",
     "eslint-config-expo": "~9.2.0"
-  }
+  },
+  "private": true
 }
