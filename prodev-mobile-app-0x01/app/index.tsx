@@ -1,7 +1,5 @@
 import { View, Text, StyleSheet } from 'react-native';
 
-import { View, Text } from 'react-native';
-
 export default function App() {
   return (
     <View>
@@ -12,7 +10,6 @@ export default function App() {
         <Text style={styles.smallText}>ALX is awesome</Text>
       </View>
     </View>
-    
   );
 }
 
